@@ -7,8 +7,8 @@ title: "Epic Children: Recorded Children in Epics and Historical Accounts"
 authors:
   - family-names: Sood
     given-names: Gaurav
-repository-code: "https://github.com/soodoku/epic_children"
-url: "https://github.com/soodoku/epic_children"
+repository-code: "https://github.com/soodoku/mw_epic_children"
+url: "https://github.com/soodoku/mw_epic_children"
 abstract: >-
   Sourced parent-child records and reproducible R analyses of recorded sons
   and daughters in selected epics, religious texts, and historical accounts,
